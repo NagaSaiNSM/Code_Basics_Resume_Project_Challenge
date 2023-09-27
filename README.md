@@ -1,4 +1,4 @@
-# Code_Basics_Resume_Project_Challenge
+# Code_Basics_Resume_Project_Challenge_6
 Challenge : Provide Insights to the Marketing Team in Food & Beverage Industry
 Difficulty : 2/5   Active
 
